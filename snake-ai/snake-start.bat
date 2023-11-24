@@ -1,5 +1,5 @@
 @echo off
-cd percorso_del_tuo_progetto
+
 
 rem Controlla se la cartella env esiste
 if not exist env (
